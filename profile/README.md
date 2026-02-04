@@ -8,6 +8,6 @@ The Seaborne Lab seeks to understand how and why individual muscle cells (myofib
 
 ## 🌐 Our Developments
 
-Lab website: [coming soon]
+Lab website: https://muscleomicslab.github.io/
 
 PI website: https://www.kcl.ac.uk/people/robert-seaborne
