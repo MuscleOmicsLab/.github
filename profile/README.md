@@ -1,6 +1,6 @@
 # The Muscle Omics Lab - Kings College London
 
-Welcome to the official GitHub organization for the Muscle Omics Laboratory. Our research group focusses on developing and applying omic technologies to understand muscle and single muscle cells in healthy and diseased states. This work merges the fields of muscle biology, functional genomics and biophysics and aims to provide us with the most comprehensive and high-resolution understanding of how muscle cells behave and react in various contexts. Through these endeavours, we will be developing and modifying various analytical pipelines and packages. As a lab we are keen to ensure our code and analytical pipelines are shared and widely accessible. Through this GitHub organisation, we aim to do exactly that!
+Welcome to the official GitHub organization for the Muscle Omics Laboratory, based at Guys Campus KCL in London (UK). Our research group focusses on developing and applying omic technologies to understand muscle and single muscle cells in healthy and diseased states. This work merges the fields of muscle biology, functional genomics and biophysics and aims to provide us with the most comprehensive and high-resolution understanding of how muscle cells behave and react in various contexts. Through these endeavours, we will be developing and modifying various analytical pipelines and packages. As a lab we are keen to ensure our code and analytical pipelines are shared and widely accessible. Through this GitHub organisation, we aim to do exactly that!
 
 ## 🧬 The Focus of Our Work
 
